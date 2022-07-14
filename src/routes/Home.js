@@ -85,9 +85,9 @@ const Home = () => {
           </Grid>
           <Grid item paddingTop={2}>
             <Typography variant="h5" align="center" maxWidth={800}>
-              I am a Computer Science Student at CSU Long Beach. Focusing on
-              improving my coding skills along with my knowledge about
-              networking and servers.
+              I am a Computer Science Student at CSU Long Beach. Spending my
+              time building projects and focusing on improving my networking,
+              servers and coding skills.
             </Typography>
           </Grid>
           <Grid
